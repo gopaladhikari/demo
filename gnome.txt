@@ -1,11 +1,2 @@
-GNOME (GNU Network Object Model Environment)
-TechTarget Contributor
-By
-TechTarget Contributor
-What is GNOME?
-GNOME (GNU Network Object Model Environment, pronounced gah-NOHM) is a graphical user interface (GUI) and set of computer desktop applications for users of the Linux operating system. It's intended to make a Linux operating system easy to use for non-programmers and generally corresponds to the Windows desktop interface and its most common set of applications. In fact, GNOME allows the user to select one of several desktop appearances. With GNOME, the user interface can, for example, be made to look like Windows or like Mac OS. In addition, GNOME includes a set of the same type of applications found in Microsoft Office: a word processor, a spreadsheet program, a database manager, a presentation developer, a Web browser and an email program.
-
-GNOME is derived from a long-running volunteer effort under the auspices of the Free Software Foundation, the organization founded by Richard Stallman. Stallman and fellow members of the Free Software Foundation believe that software source code should always be public and open to change so that it can continually be improved by others. GNOME is in part an effort to make Linux a viable alternative to Windows so that the desktop operating system market is not controlled by a single vendor. GNU is the Free Software Foundations own operating system and set of applications. Linux, the operating system, was developed by Linus Torvalds who, assisted by contributors, added a kernel to additional operating system components from GNU.
-
-GNOME comes with an object request broker (ORB) supporting the Common Object Request Broker Architecture (CORBA) so that GNOME programs and programs from other operating system platforms in a network will be able to interoperate. GNOME also includes a widget library that programmers can use to develop applications that use the GNOME user interface. In addition to a desktop version, GNOME also comes as a user interface and set of applications for mobile devices.
-
+Hello,
+This is git file.
